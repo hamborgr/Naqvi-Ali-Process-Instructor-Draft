@@ -12,18 +12,16 @@ By Ali Naqvi
 - [Tailoring a Resume](#tailoring-a-resume)
     - [Describing your Experiences](#describing-your-experiences)
     - [Formatting your Resume](#formatting-your-resume)
-- [](#)
-- [References](#references)
 
 As an undergraduate Applied Computing student looking to get into Machine Learning Engineering post-graduation, it's crucial to understand the best way to find success in standing out to employers. This document will present the best practices for applying to become a Machine Learning Engineer.
 
 ---
 
 ## Learning How to Network with Professionals
-Networking isn't just about talking to people, but who the right people are that you should be talking to, where to find them, and what you should be talking to them about. Professionals can be anyone within the direct field of work or the surrounding field. This could mean someone who is an ML Engineer, recruiters for the field, or even a professor who knows about the field.
+Networking isn't just about talking to people, but who the right people are that you should be talking to, where to find them, and what you should be talking to them about. Professionals can be anyone within the direct field of work or the surrounding. This could mean someone who is an ML Engineer, recruiters, or even a professor who is familiar with ML.
 
 ### Networking with ML Engineers
-Finding an ML Engineer might be slightly hard to find as they won't just be out and about, you'll have to actively seek them out. This could mean going to career fairs, or selecting individual companies and reaching out to their employees. By reaching out, you have already shown interest and can then continue speaking with them online, or if they're close enough, then set up an in-person meeting. 
+Finding an ML Engineer must be actively sought out. This could mean going to career fairs, or selecting individual companies and reaching out to employees. By reaching out, you have already shown interest and can then continue speaking with them online, or if they're close enough, then set up an in-person meeting. 
 
 Speak with them about what their day-to-day looks like, what specific experience you should try to build, and also try to create a respectful personal relationship with them outside of professionalism.
 
@@ -33,7 +31,7 @@ Recruiters for ML Engineering will likely be found at career fairs so its best t
 Form a deeper personal bond with them, and when it comes time to apply, they already know what kind of person you are to work with, as well as, your qualifications for the role.
 
 ### Networking with Professors
-Professors in a related field won't be difficult to find, as you can just talk to them after class or set aside separate times to speak with them. It's important to recognize that your performance in the class is also important for networking with a professor. Even if your final grade in the class wasn't ideal, so long as you participated and showed interest in the content, the professor will be more willing to talk to you.
+Professors in a related field won't be difficult to find, as you can just talk to them after class or set aside separate times to speak with them. Performance in the class is also important for networking with a professor. Even if your final grade in the class wasn't ideal, so long as you showed interest in the content, they will be more willing to support you.
 
 Speak with your professor about what further learning you should pursue in order to properly prepare yourself for your career in ML Engineering.
 
@@ -59,9 +57,7 @@ Express your most relevant skills, experiences, and education earlier on in the 
 
 ---
 
-## References
-
-
+#### [Word Count]: 653
 
 ---
 
