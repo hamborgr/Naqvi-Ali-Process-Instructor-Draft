@@ -53,7 +53,9 @@ Your resume will always have jobs or experiences that relate to the company you 
 Identify and discuss what kind of tangible impact you made. This could be statistics, such as the project you worked on whose internet traffic went up due to your enhancements or marketing. This could also be qualitative impacts like improving brand reputation.
 
 ### Formatting your Resume
-All resumes contain personal information, jobs/experiences, skills, and most will have an objective. 
+All resumes contain personal information, jobs/experiences, skills, and most will have an objective. Understanding what will stand out immediately to recruiters is important.
+
+Express your most relevant skills, experiences, and education earlier on in the resume and anything that is not relevant can be secondary. Ensure that your resume is not over a page long, or that will impact you negatively as well. 
 
 ---
 
