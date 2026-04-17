@@ -59,7 +59,7 @@ Express your most relevant skills, experiences, and education earlier on in the 
 ---
 
 ## Building a Project
-![Process Diagram](process-diagram.jpg)
+![Process Diagram](https://github.com/hamborgr/Naqvi-Ali-Process-Instructor-Draft/blob/eafb07e464b3cb69773bc18db92e68895a9c7f50/process-diagram.jpg)
 
 ---
 
