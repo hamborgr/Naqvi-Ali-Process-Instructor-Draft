@@ -59,7 +59,7 @@ Express your most relevant skills, experiences, and education earlier on in the 
 ---
 
 ## Building a Project
-![Process Diagram](https://imgur.com/a/ngfiu9T)
+![Process Diagram]()
 
 ---
 
