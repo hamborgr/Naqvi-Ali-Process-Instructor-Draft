@@ -12,6 +12,7 @@ By Ali Naqvi
 - [Tailoring a Resume](#tailoring-a-resume)
     - [Describing your Experiences](#describing-your-experiences)
     - [Formatting your Resume](#formatting-your-resume)
+- [Building a Project](#building-a-project)
 
 As an undergraduate Applied Computing student looking to get into Machine Learning Engineering post-graduation, it's crucial to understand the best way to find success in standing out to employers. This document will present the best practices for applying to become a Machine Learning Engineer.
 
@@ -54,6 +55,11 @@ Identify and discuss what kind of tangible impact you made. This could be statis
 All resumes contain personal information, jobs/experiences, skills, and most will have an objective. Understanding what will stand out immediately to recruiters is important.
 
 Express your most relevant skills, experiences, and education earlier on in the resume and anything that is not relevant to ML engineering can be put secondary. Ensure that your resume is not over a page long, or that will impact you negatively as well. 
+
+---
+
+## Building a Project
+![Process Diagram](https://imgur.com/a/ngfiu9T)
 
 ---
 
